@@ -42,14 +42,14 @@ begin
 	variable produto : std_logic_vector (8 downto 0);
 	begin
 		-- monta as entradas 
-		adicao(8 downto 5) <= A(7 downto 4);
+		adicao(8 downto 5) <= A(3 downto 0);
 		adicao(4 downto 0) <= "00000";
 		
-		subtracao(8 downto 5) <= (not A(7 downto 4)) + "0001";
+		subtracao(8 downto 5) <= (not A(3 downto 0)) + "0001";
 		subtracao(4 downto 0) <= "00000";
 		
 		produto(8 downto 5) := "0000";
-		produto(4 downto 1) := B(7 downto 4);
+		produto(4 downto 1) := B(3 downto 0);
 		produto(0) := '0';
 		
 		-- inicio do algortimo de Booth

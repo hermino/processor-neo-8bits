@@ -1,0 +1,102 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/gabri/Desktop/ProcessadorNEO/simulation/qsim
+Eneo
+Z1 w1516821134
+Z2 DPx8 cyclonev 18 cyclonev_atom_pack 0 22 41KVoNENnj;RUmMIITVQg1
+Z3 DPx8 cyclonev 19 cyclonev_components 0 22 MmMkVfW5JWkR?lm<VcfRO1
+Z4 DPx12 altera_lnsim 23 altera_lnsim_components 0 22 3L]34bNSPL@[RD2AeKH]S3
+Z5 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z6 DPx6 altera 11 dffeas_pack 0 22 zWCf]NF6heG=Dhmc@B0=T2
+Z7 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z8 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z9 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z10 DPx6 altera 28 altera_primitives_components 0 22 _Q9E2TD5YB<<@P0[5jYTG0
+R0
+Z11 8ProcessadorNEO.vho
+Z12 FProcessadorNEO.vho
+l0
+L39
+VY0;O]X^g];G@c<zEdYEO32
+!s100 e;V^1[`8f_`2bo?43bK1J0
+Z13 OV;C;10.5b;63
+32
+Z14 !s110 1516821138
+!i10b 1
+Z15 !s108 1516821138.000000
+Z16 !s90 -work|work|ProcessadorNEO.vho|
+Z17 !s107 ProcessadorNEO.vho|
+!i113 1
+Z18 o-work work
+Z19 tExplicit 1 CvgOpt 0
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+DEx4 work 3 neo 0 22 Y0;O]X^g];G@c<zEdYEO32
+l887
+L65
+V7>i^zfZZeK?^7K^QFa0c?3
+!s100 ?n[G4DO8Gg^U;>ZFZRDL?0
+R13
+32
+R14
+!i10b 1
+R15
+R16
+R17
+!i113 1
+R18
+R19
+Eneo_vhd_vec_tst
+Z20 w1516821133
+R8
+R9
+R0
+Z21 8Waveform.vwf.vht
+Z22 FWaveform.vwf.vht
+l0
+L32
+V_E3On<5964YojbX_KMJ7b0
+!s100 TEXPegKKoi3G__:Lm1JON3
+R13
+32
+Z23 !s110 1516821139
+!i10b 1
+Z24 !s108 1516821139.000000
+Z25 !s90 -work|work|Waveform.vwf.vht|
+Z26 !s107 Waveform.vwf.vht|
+!i113 1
+R18
+R19
+Aneo_arch
+R8
+R9
+Z27 DEx4 work 15 neo_vhd_vec_tst 0 22 _E3On<5964YojbX_KMJ7b0
+l83
+L34
+VFQ]^`aJQTL39MMb18_90n1
+!s100 8@[1N719j1I0]<RVT4D6z1
+R13
+32
+R23
+!i10b 1
+R24
+R25
+R26
+!i113 1
+R18
+R19

@@ -1,0 +1,509 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "entrada_PC[0]",
+					"strict" : false
+				},
+				{
+					"name" : "entrada_PC[1]",
+					"strict" : false
+				},
+				{
+					"name" : "entrada_PC[2]",
+					"strict" : false
+				},
+				{
+					"name" : "entrada_PC[3]",
+					"strict" : false
+				},
+				{
+					"name" : "entrada_PC[4]",
+					"strict" : false
+				},
+				{
+					"name" : "entrada_PC[5]",
+					"strict" : false
+				},
+				{
+					"name" : "entrada_PC[6]",
+					"strict" : false
+				},
+				{
+					"name" : "entrada_PC[7]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_PC[0]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_PC[1]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_PC[2]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_PC[3]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_PC[4]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_PC[5]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_PC[6]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_PC[7]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MemInstr[0]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MemInstr[1]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MemInstr[2]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MemInstr[3]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MemInstr[4]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MemInstr[5]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MemInstr[6]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MemInstr[7]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_BdRA[0]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_BdRA[1]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_BdRA[2]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_BdRA[3]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_BdRA[4]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_BdRA[5]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_BdRA[6]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_BdRA[7]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_BdRB[0]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_BdRB[1]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_BdRB[2]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_BdRB[3]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_BdRB[4]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_BdRB[5]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_BdRB[6]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_BdRB[7]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_ExtensorSinal2p8[0]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_ExtensorSinal2p8[1]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_ExtensorSinal4p8[0]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_ExtensorSinal4p8[1]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_ExtensorSinal4p8[2]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_ExtensorSinal4p8[3]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_RegA[0]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_RegA[1]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_RegA[2]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_RegA[3]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_RegA[4]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_RegA[5]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_RegA[6]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_RegA[7]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_RegB[0]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_RegB[1]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_RegB[2]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_RegB[3]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_RegB[4]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_RegB[5]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_RegB[6]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_RegB[7]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MUXfonteA[0]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MUXfonteA[1]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MUXfonteA[2]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MUXfonteA[3]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MUXfonteA[4]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MUXfonteA[5]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MUXfonteA[6]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MUXfonteA[7]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MUXfonteB[0]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MUXfonteB[1]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MUXfonteB[2]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MUXfonteB[3]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MUXfonteB[4]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MUXfonteB[5]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MUXfonteB[6]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MUXfonteB[7]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_ULA[0]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_ULA[1]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_ULA[2]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_ULA[3]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_ULA[4]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_ULA[5]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_ULA[6]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_ULA[7]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_RegULAout[0]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_RegULAout[1]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_RegULAout[2]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_RegULAout[3]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_RegULAout[4]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_RegULAout[5]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_RegULAout[6]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_RegULAout[7]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MemDados[0]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MemDados[1]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MemDados[2]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MemDados[3]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MemDados[4]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MemDados[5]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MemDados[6]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MemDados[7]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MDR[0]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MDR[1]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MDR[2]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MDR[3]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MDR[4]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MDR[5]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MDR[6]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MDR[7]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MUXbdRegin[0]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MUXbdRegin[1]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MUXbdRegin[2]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MUXbdRegin[3]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MUXbdRegin[4]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MUXbdRegin[5]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MUXbdRegin[6]",
+					"strict" : false
+				},
+				{
+					"name" : "saida_MUXbdRegin[7]",
+					"strict" : false
+				},
+				{
+					"name" : "habilitaPC",
+					"strict" : false
+				},
+				{
+					"name" : "zeroULA",
+					"strict" : false
+				},
+				{
+					"name" : "out_estado[0]",
+					"strict" : false
+				},
+				{
+					"name" : "out_estado[1]",
+					"strict" : false
+				},
+				{
+					"name" : "out_estado[2]",
+					"strict" : false
+				},
+				{
+					"name" : "clock",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

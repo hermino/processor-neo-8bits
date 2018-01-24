@@ -1,0 +1,13 @@
+
+State Machine - |NEO|blocoControle:controle|atual_estado
+Name atual_estado.s9 atual_estado.s8 atual_estado.s7 atual_estado.s6 atual_estado.s5 atual_estado.s4 atual_estado.s3 atual_estado.s2 atual_estado.s1 atual_estado.s0 
+atual_estado.s0 0 0 0 0 0 0 0 0 0 0 
+atual_estado.s1 0 0 0 0 0 0 0 0 1 1 
+atual_estado.s2 0 0 0 0 0 0 0 1 0 1 
+atual_estado.s3 0 0 0 0 0 0 1 0 0 1 
+atual_estado.s4 0 0 0 0 0 1 0 0 0 1 
+atual_estado.s5 0 0 0 0 1 0 0 0 0 1 
+atual_estado.s6 0 0 0 1 0 0 0 0 0 1 
+atual_estado.s7 0 0 1 0 0 0 0 0 0 1 
+atual_estado.s8 0 1 0 0 0 0 0 0 0 1 
+atual_estado.s9 1 0 0 0 0 0 0 0 0 1 
